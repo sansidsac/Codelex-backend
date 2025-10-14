@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Dataset and model folders
+tokenized_kannada_dataset/
+kannada_python_t5_model/
+results/
+logs/
+
+# Environment files
+.env
